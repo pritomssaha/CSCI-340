@@ -1,1 +1,1 @@
-# CSCI-340
+# CSCI 340 - Operating Systems Principles
